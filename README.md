@@ -1,2 +1,2 @@
 # web-assignment
-for uploading assignments
+This is for uploading basic html
